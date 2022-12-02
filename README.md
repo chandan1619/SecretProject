@@ -2,7 +2,7 @@
 
 # Here are the steps -
 
-# step 1 - Reading the data from xml file and picking the filed inside <object> tags
+# step 1 - Reading the data from xml file and picking the fields inside object tags
 
 # step 2 - making a Node class to represent a Tree Node with same properties as there for attributes of object tag in xml file
 
